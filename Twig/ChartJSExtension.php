@@ -8,7 +8,7 @@
 
 namespace Mukadi\ChartJSBundle\Twig;
 
-use Mukadi\ChartJSBundle\Chart;
+use Mukadi\ChartJSBundle\Chart\Chart;
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFunction;
 
