@@ -8,7 +8,6 @@
  */
 namespace Mukadi\ChartJSBundle\Chart;
 
-use Mukadi\Chart\AbstractBuilder;
 use Doctrine\ORM\EntityManagerInterface;
 use Doctrine\ORM\Query;
 /**
