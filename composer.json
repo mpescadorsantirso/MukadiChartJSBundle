@@ -17,7 +17,7 @@
         "php": "^8.3",
         "symfony/framework-bundle": "^6.4",
         "twig/twig": "^3.0",
-        "doctrine/orm": "^3.2",
+        "doctrine/orm": "^2.15",
         "mukadi/chartjs-builder": "^2.1",
         "doctrine/doctrine-bundle": "^2.12"
     },
