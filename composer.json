@@ -14,7 +14,7 @@
         "symfony bundle", "Charts", "chart.js","chartjs","Chart builder","Graphics"
     ],
     "require": {
-        "php": "^8.3",
+        "php": "^8",
         "symfony/framework-bundle": "^6|^7",
         "twig/twig": "^3.0",
         "doctrine/orm": "^2.15",
